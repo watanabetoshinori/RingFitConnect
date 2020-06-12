@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RingFitConnect
+
+  Created by Watanabe Toshinori on 2020/06/11.
+  Copyright © 2020 Watanabe Toshinori. All rights reserved.
+*/
+
+// ContentView
+"Ring Fit Adenture" = "Ring Fit Adenture";
+"Add Data" = "Add Data";
+"No Data" = "No Data";
+"Time" = "Time";
+"Calories" = "Calories";
+"Distance" = "Distance";
+"OK" = "OK";
+
+"HealthKit is not available on this device." = "HealthKit is not available on this device.";
+"The QuantityType required for this app is not supported." = "The QuantityType required for this app is not supported.";
+"You are not allowed to access the HealthData that this app requires. Please grant permission from the Settings." = "You are not allowed to access the HealthData that this app requires. Please grant permission from the Settings.";
+"Unable to extract the text from image.　Take a picture so that the log screen fits into the camera." = "Unable to extract the text from image.　Take a picture so that the log screen fits into the camera.";
+"Failed to collect the log information. Take a picture so that the log screen fits into the camera." = "Failed to collect the log information. Take a picture so that the log screen fits into the camera.";

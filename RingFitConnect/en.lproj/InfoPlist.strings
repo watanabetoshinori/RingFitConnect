@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  RingFitConnect
+
+  Created by Watanabe Toshinori on 2020/06/11.
+  Copyright © 2020 Watanabe Toshinori. All rights reserved.
+*/
+"CFBundleDisplayName" = "Ring Fit";

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  RingFitConnect
+
+  Created by Watanabe Toshinori on 2020/06/11.
+  Copyright © 2020 Watanabe Toshinori. All rights reserved.
+*/
+"CFBundleDisplayName" = "リングフィット";
+"NSCameraUsageDescription" = "ゲーム画面からワークアウト情報を取得するためにカメラを使用します";
+"NSHealthShareUsageDescription" = "アプリが関連するワークアウトを参照するためにこれらのカテゴリを使用します。";
+"NSHealthUpdateUsageDescription" = "アプリが関連するワークアウトを保存するためにこれらのカテゴリを使用します。";
